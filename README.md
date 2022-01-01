@@ -1,0 +1,2 @@
+# bingo
+Crappy bingo caller
